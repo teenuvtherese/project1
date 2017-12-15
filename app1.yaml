@@ -1,4 +1,4 @@
-runtime: python
+runtime: python-compat
 api_version: 3
 threadsafe: true
 handlers:
