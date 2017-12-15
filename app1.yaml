@@ -1,8 +1,6 @@
-runtime: python-compat
+runtime: python
+api_version: 3
 threadsafe: true
 handlers:
 - url: /.*
   script: python1.app
-
-runtime_config:
-  python_version: 3
