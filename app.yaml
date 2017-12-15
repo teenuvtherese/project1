@@ -3,7 +3,7 @@ api_version: 3
 threadsafe: true
 handlers:
 - url: /.*
-  script: python1.app       
+  script: main.app       
                                                                                
                                                                                
                                                                                   
